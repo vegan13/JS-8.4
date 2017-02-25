@@ -1,6 +1,6 @@
-var a = 5,
-    h = 10,
-    triangleArea = 1;
+var a = 1,
+    h = 1,
+    triangleArea;
 
 a = prompt('Wpisz długość podstawy trójkąta');
 h = prompt('Wpisz wysokość trójkąta');
